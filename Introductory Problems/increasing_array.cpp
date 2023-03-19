@@ -101,5 +101,5 @@ void increasing_array(int num)
       arr[i + 1] = arr[i];
     }
   }
-    cout<<count;
+  cout<<count;
 }
